@@ -1,6 +1,7 @@
 #Ingridients
 -avocado
--lime
+-Mexican lime
 -corriander
 -onion
+-salt
 #Instructions
