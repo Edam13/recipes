@@ -3,5 +3,5 @@
 -olive oil
 - oil
 - tahini
--kiwi
+- salt
 #steps
